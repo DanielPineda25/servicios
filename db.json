@@ -6,7 +6,7 @@
       "precio": "8.00",
       "id": "9e05d98e-715e-4b54-a317-4ac7746028a7",
       "categoria": "starwars",
-      "descripcion": "El vaso Stormtrooper es un accesorio icónico para los fanáticos de Star Wars. Con su diseño detallado y elegante, este vaso de alta calidad presenta la forma distintiva del casco de un Stormtrooper. Es perfecto para disfrutar de tus bebidas favoritas con un toque de la galaxia muy, muy lejana. Un regalo ideal para los amantes de la saga y coleccionistas."
+      "descripcion": "El vaso Stormtrooper es un accesorio icónico para los fanáticos de Star Wars."
     },
     {
       "url": "recursos/starwars/darth vader head.png",
@@ -14,7 +14,7 @@
       "precio": "13.00",
       "id": "0142a491-87ae-464a-82ef-ce0a69c9b231",
       "categoria": "starwars",
-      "descripcion": "El adorno Darth Vader es un elemento imprescindible para los entusiastas de Star Wars durante las festividades. Detallado y elaborado con precisión, este adorno captura la imponente presencia de Darth Vader en miniatura. Agrega un toque épico a tu árbol de Navidad u espacio de decoración, deleitando a los fanáticos de todas las edades con su conexión a la saga galáctica. Un regalo ideal para celebrar la temporada con un toque oscuro pero festivo."
+      "descripcion": "El adorno Darth Vader es un elemento imprescindible para los entusiastas de Star Wars durante las festividades."
     },
     {
       "url": "recursos/starwars/jueguete yoda.png",
@@ -22,7 +22,7 @@
       "precio": "15.00",
       "id": "68d369ea-428f-4406-91b1-4e607a782e8f",
       "categoria": "starwars",
-      "descripcion": "El juguete Yoda es una adorable y entrañable figura que cautivará a fans de todas las edades. Con su tamaño compacto y realista, este juguete captura la sabiduría y encanto del Maestro Jedi Yoda. Ya sea para coleccionar, exhibir o jugar, este juguete es una representación perfecta de uno de los personajes más queridos de Star Wars, inspirando la imaginación y trayendo un pedacito de la galaxia a tu mundo. Un regalo cautivador para los amantes de la saga y los nuevos aprendices Jedi."
+      "descripcion": "El juguete Yoda es una adorable y entrañable figura que cautivará a fans de todas las edades."
     },
     {
       "url": "recursos/starwars/juegue soldado.png",
@@ -30,7 +30,7 @@
       "precio": "25.00",
       "id": "4afe28e3-882c-4b79-8b40-1bdfa518aa50",
       "categoria": "starwars",
-      "descripcion": "El soldado Stormtrooper es una figura de acción impresionante que trae la emoción de Star Wars a la vida. Con detalles meticulosos y articulaciones realistas, este soldado captura la esencia de la fuerza imperial. Ya sea para jugar, exhibir o coleccionar, esta figura permite a los fanáticos recrear emocionantes escenas de la saga o inventar sus propias historias galácticas. Un regalo emocionante para los seguidores de Star Wars y los amantes de la acción."
+      "descripcion": "El soldado Stormtrooper es una figura de acción impresionante que trae la emoción de Star Wars a la vida."
     },
     {
       "url": "recursos/starwars/mini yoda.png",
@@ -38,7 +38,7 @@
       "precio": "14.00",
       "id": "06c0064d-23d4-4591-8f72-5bf9c831ae6e",
       "categoria": "starwars",
-      "descripcion": "La mini figura de Yoda en cerámica es una encantadora obra de arte que rinde homenaje al venerable Maestro Jedi. Con su tamaño diminuto y detalles intrincados, esta pieza captura la esencia de Yoda de manera adorable. Perfecta como decoración, coleccionable o regalo, esta miniatura cerámica agrega un toque de sabiduría y magia de Star Wars a cualquier espacio. Un tesoro para los amantes de la saga que buscan una pieza única y encantadora de su universo favorito."
+      "descripcion": "La mini figura de Yoda en cerámica es una encantadora obra de arte que rinde homenaje al venerable Maestro Jedi."
     },
     {
       "url": "recursos/starwars/death trooper.png",
@@ -46,14 +46,14 @@
       "precio": "25.00",
       "id": "7c3c214c-499f-4b8f-be59-6d2075c5f656",
       "categoria": "starwars",
-      "descripcion": "El soldado de Star Wars es una figura de acción impresionante que representa la emocionante lucha entre el bien y el mal en la galaxia. Detallado y articulado, este soldado permite a los fans recrear épicas batallas y momentos emblemáticos de la saga. Ya sea para jugar, coleccionar o exhibir, esta figura lleva consigo la esencia de Star Wars y cautiva a fanáticos de todas las edades. Un regalo emocionante que trae la aventura intergaláctica directamente a tus manos."
+      "descripcion": "El soldado de Star Wars es una figura de acción impresionante que representa la emocionante lucha entre el bien y el mal en la galaxia."
     },
     {
       "url": "recursos/consolas/control xbox.png",
       "nombre": "Control Xbox",
       "precio": "60.00",
       "categoria": "consolas",
-      "descripcion": "El control Xbox es la herramienta definitiva para experimentar tus juegos favoritos con precisión y comodidad. Diseñado ergonómicamente y equipado con tecnología avanzada, este control ofrece una experiencia de juego inmersiva y fluida. Con conectividad inalámbrica y capacidades personalizables, se adapta a tu estilo único. Ya sea que estés compitiendo en línea o explorando mundos virtuales, el control Xbox es el compañero perfecto para desatar tu pasión por los videojuegos.",
+      "descripcion": "El control Xbox es la herramienta definitiva para experimentar tus juegos favoritos con precisión y comodidad.",
       "id": "4e433ead-b0d5-48f8-bec1-96842efbeb8f"
     },
     {
@@ -62,7 +62,7 @@
       "precio": "850.00",
       "id": "4426921b-c350-4810-aaf0-d74f48b63513",
       "categoria": "consolas",
-      "descripcion": "La PlayStation 5 es la última innovación en el mundo de los videojuegos, ofreciendo un rendimiento impresionante y experiencias de juego de próxima generación. Con gráficos ultrarrealistas, tiempos de carga ultrarrápidos y un controlador revolucionario, la PS5 transporta a los jugadores a mundos increíbles. Sumérgete en títulos exclusivos y emocionantes, disfruta de la compatibilidad con versiones anteriores y explora nuevas formas de juego en línea y en solitario. La PS5 redefine la forma en que interactúas con los videojuegos y te sumerge en un nivel superior de entretenimiento interactivo."
+      "descripcion": "La PlayStation 5 es la última innovación en el mundo de los videojuegos, ofreciendo un rendimiento impresionante y experiencias de juego de próxima generación."
     },
     {
       "url": "recursos/consolas/consola nintendo.png",
@@ -70,7 +70,7 @@
       "precio": "65.00",
       "id": "7ab7dd81-74e0-4032-a886-e9a2cf493b81",
       "categoria": "consolas",
-      "descripcion": "La consola Nintendo es sinónimo de diversión y nostalgia en el mundo de los videojuegos. Con una amplia gama de títulos icónicos y exclusivos, esta plataforma te lleva a aventuras coloridas y emocionantes. Desde clásicos reinventados hasta innovadores juegos de movimiento, la consola Nintendo ofrece entretenimiento para jugadores de todas las edades. Ya sea en casa o en movimiento, disfruta de experiencias únicas y únicas que capturan la esencia única de Nintendo. Una ventana a la imaginación y la creatividad que ha cautivado a generaciones de jugadores."
+      "descripcion": "La consola Nintendo es sinónimo de diversión y nostalgia en el mundo de los videojuegos."
     },
     {
       "url": "recursos/consolas/control nintendo switch.png",
@@ -78,7 +78,7 @@
       "precio": "55.00",
       "id": "ccd3bda9-25cd-4100-bd1d-e1031b440a7b",
       "categoria": "consolas",
-      "descripcion": "El control Nintendo Switch es tu puerta de entrada a la diversión versátil de la consola. Diseñado para adaptarse perfectamente a diferentes modos de juego, este control te brinda precisión y comodidad mientras exploras un mundo de aventuras. Con tecnología de detección de movimiento y funciones innovadoras, como los HD Rumble, este control te sumerge en experiencias únicas y emocionantes. Ya sea que estés compitiendo en la pantalla grande o jugando en modo portátil, el control Nintendo Switch te permite sacar el máximo provecho de tus juegos favoritos."
+      "descripcion": "El control Nintendo Switch es tu puerta de entrada a la diversión versátil de la consola."
     },
     {
       "url": "recursos/consolas/consola xbox.png",
@@ -86,7 +86,7 @@
       "precio": "800.00",
       "id": "ede00b0d-ede5-4377-a244-16f0a26ee9ee",
       "categoria": "consolas",
-      "descripcion": "La consola Xbox es un centro de entretenimiento definitivo que ofrece una experiencia de juego y multimedia de última generación. Con potencia de rendimiento líder en su clase, gráficos impresionantes y una biblioteca diversa de juegos, la consola Xbox te sumerge en mundos virtuales emocionantes. Además, su conectividad en línea te permite jugar con amigos y acceder a una amplia gama de servicios de entretenimiento. Desde juegos épicos hasta transmisión de contenido, la consola Xbox es tu entrada a un universo de diversión y conectividad en constante evolución."
+      "descripcion": "La consola Xbox es un centro de entretenimiento definitivo que ofrece una experiencia de juego y multimedia de última generación."
     },
     {
       "url": "recursos/consolas/gameboy color.png",
@@ -94,7 +94,7 @@
       "precio": "85.00",
       "id": "fd3f5bdb-f410-4d12-b11b-b52c917d6520",
       "categoria": "consolas",
-      "descripcion": "La consola Game Boy es un ícono de la historia de los videojuegos, ofreciendo diversión portátil que perdura en el tiempo. Compacta y revolucionaria en su época, esta consola en blanco y negro te permite disfrutar de títulos clásicos donde quiera que vayas. Con una pantalla retroiluminada y una amplia variedad de juegos, el Game Boy captura la nostalgia de las aventuras de antaño y sigue siendo un tesoro para los amantes de los juegos retro. Revive la emoción de una era pasada y lleva contigo la magia de los videojuegos en la palma de tu mano."
+      "descripcion": "La consola Game Boy es un ícono de la historia de los videojuegos, ofreciendo diversión portátil que perdura en el tiempo."
     },
     {
       "url": "recursos/diversos/camiseta atari.png",
@@ -102,7 +102,7 @@
       "precio": "8.00",
       "id": "060811b2-9e05-4c33-99b8-067fe8c5bc1e",
       "categoria": "diversos",
-      "descripcion": "La camiseta Atari es un tributo a la era dorada de los videojuegos. Con su icónico logotipo y estilo retro, esta camiseta te sumerge en la nostalgia de los juegos clásicos. Es un homenaje a la compañía pionera que dio vida a títulos legendarios y que marcó el comienzo de una revolución digital. Lleva contigo el legado de Atari y muestra tu pasión por los videojuegos con esta prenda única y atemporal."
+      "descripcion": "La camiseta Atari es un tributo a la era dorada de los videojuegos."
     },
     {
       "url": "recursos/diversos/camiseta snes.png",
@@ -110,7 +110,7 @@
       "precio": "8.00",
       "id": "4a244f0b-fda5-4ba1-9c3e-bb117c922479",
       "categoria": "diversos",
-      "descripcion": "La camiseta SNES es un homenaje a la consola que definió una era de juegos inolvidables. Con su diseño retro y el encanto del Super Nintendo Entertainment System, esta camiseta te transporta de vuelta a los años noventa. Captura la magia de los clásicos como Mario, Zelda y Metroid, y muestra tu devoción por los títulos legendarios que dejaron una huella imborrable en la cultura de los videojuegos. Una prenda imprescindible para los amantes de la nostalgia y los aficionados a los juegos de antaño."
+      "descripcion": "La camiseta SNES es un homenaje a la consola que definió una era de juegos inolvidables."
     },
     {
       "url": "recursos/diversos/juguete sonic.png",
@@ -118,7 +118,7 @@
       "precio": "10.00",
       "id": "2b5f3729-9b53-4c7d-a59b-6c1ee7e62f29",
       "categoria": "diversos",
-      "descripcion": "El juguete de Sonic es una representación dinámica del veloz erizo azul que ha cautivado a generaciones de jugadores. Con su diseño vibrante y detalles auténticos, este juguete captura la energía y el espíritu aventurero de Sonic the Hedgehog. Perfecto para coleccionar, jugar o exhibir, este juguete trae consigo la emoción de los juegos clásicos y las emocionantes hazañas de Sonic. Un regalo emocionante para fans de todas las edades que desean llevar la velocidad y la diversión a la vida real."
+      "descripcion": "El juguete de Sonic es una representación dinámica del veloz erizo azul que ha cautivado a generaciones de jugadores."
     },
     {
       "url": "recursos/diversos/radio retro.png",
@@ -126,7 +126,7 @@
       "precio": "20.00",
       "id": "59bdcf14-ced9-42b1-9968-c6d8414f5785",
       "categoria": "diversos",
-      "descripcion": "La radio retro es un elegante regreso a la época dorada de la radiofonía. Con su diseño vintage y detalles nostálgicos, esta radio combina la estética clásica con la tecnología moderna. Sintoniza estaciones AM/FM con estilo y disfruta de un toque de elegancia en tu espacio. Además, su encanto atemporal y calidad de sonido te transportarán a una era pasada mientras te mantienes conectado con la actualidad. Un accesorio encantador que une lo antiguo y lo nuevo en una pieza única."
+      "descripcion": "La radio retro es un elegante regreso a la época dorada de la radiofonía."
     },
     {
       "url": "recursos/diversos/gafas realidad virtual.png",
@@ -134,14 +134,14 @@
       "precio": "100.00",
       "id": "ab881915-2796-499f-a002-d2d3308af4f5",
       "categoria": "diversos",
-      "descripcion": "Las gafas VR (realidad virtual) son la puerta a un mundo de inmersión y experiencias sensoriales únicas. Con su tecnología avanzada y diseño ergonómico, estas gafas te sumergen en entornos virtuales envolventes. Desde explorar mundos ficticios hasta interactuar con aplicaciones educativas y de entretenimiento, las gafas VR te permiten vivir experiencias fuera de lo común. Adéntrate en una realidad paralela llena de emociones y descubrimientos a medida que expandes tus horizontes en el mundo virtual."
+      "descripcion": "Las gafas VR (realidad virtual) son la puerta a un mundo de inmersión y experiencias sensoriales únicas."
     },
     {
       "url": "recursos/diversos/peluche pikachu.png",
       "nombre": "Peluche Pikachú",
       "precio": "19.00",
       "categoria": "diversos",
-      "descripcion": "El peluche de Pikachu es una adorable y tierna representación del icónico Pokémon. Con su diseño detallado y suave textura, este peluche captura la esencia juguetona y carismática de Pikachu. Es el compañero perfecto para los fans de Pokémon de todas las edades, ya sea para abrazar, decorar o coleccionar. Lleva contigo la chispa de la amistad y la aventura de Pikachu en este peluche entrañable que iluminará tu día con su energía eléctrica.",
+      "descripcion": "El peluche de Pikachu es una adorable y tierna representación del icónico Pokémon.",
       "id": "f8dc4df6-a720-4f54-af29-f31e657facbc"
     }
   ]
